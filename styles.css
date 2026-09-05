@@ -1652,6 +1652,9 @@ textarea {
 .inbox-messages { align-content:start; }
 .inbox-conversation { padding: .8rem; text-align:left; border: 1px solid var(--line); border-radius: 10px; background: transparent; color: var(--text); cursor:pointer; }
 .inbox-thread { display:grid; grid-template-rows:auto 1fr auto; gap:1rem; }
+.inbox-thread-heading { display:flex; align-items:center; justify-content:space-between; gap:1rem; }
+.button-danger { background:#b42318; border-color:#b42318; color:#fff; }
+.button-danger:hover, .button-danger:focus-visible { background:#8f1b13; border-color:#8f1b13; }
 .inbox-message { align-self:start; height:fit-content; max-width: 80%; padding: .75rem; border-radius: 12px; background: rgba(255,255,255,.07); }
 .inbox-message.agent { justify-self:end; background: rgba(61,214,198,.18); }
 @media (max-width:760px) { .inbox-layout { grid-template-columns:1fr; } .inbox-card { padding:1rem; } }
