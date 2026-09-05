@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Start a Project | Lito Tech Limited</title>
+  <meta
+    name="description"
+    content="Start a project with Lito Tech Limited. Share your goals for web design, web apps, or SEO content and begin the conversation."
+  >
+  <link rel="canonical" href="https://dynamic-meringue-d9ad95.netlify.app/start-project.html">
+  <link rel="icon" type="image/png" href="assets/logos/lito-tech-mark.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap"
+    rel="stylesheet"
+  >
+  <link rel="stylesheet" href="styles.css?v=20260904c">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="site-header">
+      <div class="container">
+        <nav class="nav">
+          <a class="brand" href="index.html" aria-label="Lito Tech Limited home">
+            <img class="brand-mark" src="assets/logos/lito-tech-mark.png" alt="Lito Tech Limited logo">
+            <span class="brand-text">Lito Tech Limited</span>
+          </a>
+
+          <button
+            class="nav-toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="nav-menu"
+            aria-label="Open navigation"
+          >
+            <span></span>
+            <span></span>
+          </button>
+
+          <div class="nav-menu" id="nav-menu">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="projects.html">Projects</a>
+            <a href="insights.html">Insights</a>
+            <a href="start-project.html" aria-current="page" class="button button-nav">Start a Project</a>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-hero">
+        <div class="container page-hero-grid">
+          <div class="reveal">
+            <p class="eyebrow">Start a project</p>
+            <h1>Tell us what you want to build, and let’s shape the right digital direction.</h1>
+            <p class="hero-text">
+              This page is for businesses that want to discuss a premium website, web app, landing page, or
+              content-led digital presence.
+            </p>
+          </div>
+
+          <div class="page-hero-panel reveal">
+            <p class="stage-label">Best for</p>
+            <ul class="stage-list">
+              <li>New company website projects</li>
+              <li>Website redesigns and upgrades</li>
+              <li>Web app and workflow ideas</li>
+              <li>SEO-ready content planning</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container inquiry-layout">
+          <div class="inquiry-copy reveal">
+            <div class="section-heading">
+              <p class="eyebrow">Project intake</p>
+              <h2>A better inquiry process leads to better results.</h2>
+            </div>
+
+            <p>
+              This form collects enough detail to understand what you need, what stage you are in, and what kind
+              of solution fits best.
+            </p>
+
+            <div class="inquiry-points">
+              <article class="mini-card">
+                <h3>Clear goals</h3>
+                <p>We understand what the website or product needs to achieve.</p>
+              </article>
+
+              <article class="mini-card">
+                <h3>Smarter planning</h3>
+                <p>Better details make it easier to recommend the right direction early.</p>
+              </article>
+
+              <article class="mini-card">
+                <h3>Better fit</h3>
+                <p>We can tell whether the project is best approached as a site, a product, or a phased build.</p>
+              </article>
+            </div>
+          </div>
+
+          <form
+            class="project-form reveal"
+            name="project-inquiry"
+            method="post"
+            action="/thank-you"
+            data-netlify="true"
+            netlify-honeypot="bot-field"
+          >
+            <input type="hidden" name="form-name" value="project-inquiry">
+            <input type="hidden" name="inquirySource" value="Start Project Page">
+            <label class="form-honeypot" aria-hidden="true">
+              Do not fill this out if you are human
+              <input type="text" name="bot-field" tabindex="-1" autocomplete="off">
+            </label>
+            <div class="form-grid">
+              <label>
+                Full Name
+                <input type="text" name="name" placeholder="Your name" required>
+              </label>
+
+              <label>
+                Email Address
+                <input type="email" name="email" placeholder="you@example.com" required>
+              </label>
+
+              <label>
+                Company Name
+                <input type="text" name="company" placeholder="Your company">
+              </label>
+
+              <label>
+                Project Type
+                <select name="projectType" required>
+                  <option value="">Select a project type</option>
+                  <option>Company Website</option>
+                  <option>Website Redesign</option>
+                  <option>Web App</option>
+                  <option>Landing Page</option>
+                  <option>SEO Content Support</option>
+                </select>
+              </label>
+
+              <label>
+                Estimated Budget
+                <select name="budget" required>
+                  <option value="">Select a budget range</option>
+                  <option>Under $500</option>
+                  <option>$500 - $1,500</option>
+                  <option>$1,500 - $3,000</option>
+                  <option>$3,000+</option>
+                </select>
+              </label>
+
+              <label>
+                Preferred Timeline
+                <select name="timeline" required>
+                  <option value="">Select timeline</option>
+                  <option>As soon as possible</option>
+                  <option>Within 2 weeks</option>
+                  <option>Within 1 month</option>
+                  <option>Still planning</option>
+                </select>
+              </label>
+            </div>
+
+            <label>
+              What do you want to build?
+              <textarea
+                name="overview"
+                rows="5"
+                placeholder="Describe the website, product, or digital platform you want to create"
+              ></textarea>
+            </label>
+
+            <label>
+              What is the main goal of the project?
+              <textarea
+                name="goals"
+                rows="4"
+                placeholder="For example: get more leads, look more professional, improve operations, launch a product"
+              required
+              ></textarea>
+            </label>
+
+            <label>
+              Anything else we should know?
+              <textarea
+                name="notes"
+                rows="4"
+                placeholder="Share any extra details, links, inspiration, or priorities"
+              ></textarea>
+            </label>
+
+            <button class="button button-primary button-full" type="submit">Send Project Inquiry</button>
+          </form>
+        </div>
+      </section>
+
+      <section class="section section-dark">
+        <div class="container result-layout">
+          <div class="section-heading reveal">
+            <p class="eyebrow">What happens next</p>
+            <h2>After you send your inquiry, the next step should be clear and easy.</h2>
+          </div>
+
+          <div class="result-grid">
+            <article class="result-card reveal">
+              <h3>Review</h3>
+              <p>We review your project details and identify the best-fit solution.</p>
+            </article>
+
+            <article class="result-card reveal">
+              <h3>Direction</h3>
+              <p>We recommend the most practical route, whether that means a website, web app, or phased build.</p>
+            </article>
+
+            <article class="result-card reveal">
+              <h3>Conversation</h3>
+              <p>We reach out with the next step, any needed clarifications, or the recommended path forward.</p>
+            </article>
+
+            <article class="result-card reveal">
+              <h3>Momentum</h3>
+              <p>Once aligned, the project can move into planning and build with more confidence.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-accent">
+        <div class="container faq-layout">
+          <div class="section-heading reveal">
+            <p class="eyebrow">Before you submit</p>
+            <h2>You do not need every detail figured out before reaching out.</h2>
+          </div>
+
+          <div class="faq-list">
+            <article class="faq-card reveal">
+              <h3>What if I am still refining the idea?</h3>
+              <p>That is fine. A clear starting point helps, but we can still shape the project direction together.</p>
+            </article>
+
+            <article class="faq-card reveal">
+              <h3>What if I only need a website first?</h3>
+              <p>That is also fine. Projects can be approached in phases, starting with the most valuable first step.</p>
+            </article>
+
+            <article class="faq-card reveal">
+              <h3>What if I need content help too?</h3>
+              <p>We can support both the structure of the site and the messaging behind it.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <a class="brand brand-footer" href="index.html">
+            <img class="brand-mark" src="assets/logos/lito-tech-mark.png" alt="Lito Tech Limited logo">
+            <span class="brand-text">Lito Tech Limited</span>
+          </a>
+          <p data-cms-tagline></p>
+        </div>
+
+        <div class="social-links" data-cms-social-links></div>
+
+        <div class="footer-bottom">
+          <p class="footer-note">Copyright <span id="year"></span> Lito Tech Limited. All rights reserved.</p>
+          <div class="footer-links" data-cms-footer-links></div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+  <script src="lito-live-chat.js?v=6"></script>
+</body>
+</html>

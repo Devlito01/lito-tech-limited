@@ -1,0 +1,125 @@
+{
+  "featured": {
+    "tag": "Featured Insight",
+    "title": "What makes a business website feel professional from the first screen?",
+    "slug": "what-makes-a-business-website-feel-professional-from-the-first-screen",
+    "summary": "Strong business websites build trust quickly, guide visitors clearly, and make the brand feel ready for serious work.",
+    "imageUrl": "",
+    "imageAlt": "",
+    "body": [
+      {
+        "style": "normal",
+        "children": [
+          {
+            "text": "The strongest business websites do more than look polished. They create trust quickly, guide visitors clearly, and make a brand feel prepared for serious work."
+          }
+        ]
+      },
+      {
+        "style": "normal",
+        "children": [
+          {
+            "text": "That usually comes from clear messaging, stronger page structure, and visuals that support credibility instead of distracting from it."
+          }
+        ]
+      }
+    ],
+    "url": "#"
+  },
+  "categories": [
+    {
+      "title": "Web Design",
+      "summary": "Articles about layout, visual hierarchy, responsive design, and modern website presentation."
+    },
+    {
+      "title": "Web Apps",
+      "summary": "Content about digital tools, dashboards, workflow interfaces, and product thinking."
+    },
+    {
+      "title": "SEO Content",
+      "summary": "Insights on search-friendly writing, page structure, blog strategy, and content clarity."
+    },
+    {
+      "title": "Business Growth",
+      "summary": "Ideas around digital positioning, credibility, customer trust, and online business presence."
+    }
+  ],
+  "articles": [
+    {
+      "tag": "Web Design",
+      "title": "Why modern websites need stronger content flow, not just better colors",
+      "slug": "why-modern-websites-need-stronger-content-flow-not-just-better-colors",
+      "summary": "Good design helps people see what matters first, what to do next, and why the business feels credible.",
+      "imageUrl": "",
+      "imageAlt": "",
+      "body": [
+        {
+          "style": "normal",
+          "children": [
+            {
+              "text": "Better colors can improve a website, but content flow is what tells visitors where to look, what matters, and what action to take next."
+            }
+          ]
+        }
+      ],
+      "url": "#"
+    },
+    {
+      "tag": "SEO Content",
+      "title": "How service pages help a business appear clearer in search and to real clients",
+      "slug": "how-service-pages-help-a-business-appear-clearer-in-search-and-to-real-clients",
+      "summary": "Service pages help with search visibility, clearer messaging, and stronger conversion.",
+      "imageUrl": "",
+      "imageAlt": "",
+      "body": [
+        {
+          "style": "normal",
+          "children": [
+            {
+              "text": "Strong service pages help businesses appear more clearly in search while also helping real visitors understand the offer and trust the brand."
+            }
+          ]
+        }
+      ],
+      "url": "#"
+    },
+    {
+      "tag": "Web Apps",
+      "title": "What small businesses should know before investing in a web app",
+      "slug": "what-small-businesses-should-know-before-investing-in-a-web-app",
+      "summary": "Not every business needs an app first, but some need more than a brochure site to grow well.",
+      "imageUrl": "",
+      "imageAlt": "",
+      "body": [
+        {
+          "style": "normal",
+          "children": [
+            {
+              "text": "Some small businesses need more than a brochure website. When workflows, customer actions, or internal processes become more complex, a web app can add real value."
+            }
+          ]
+        }
+      ],
+      "url": "#"
+    },
+    {
+      "tag": "Growth Strategy",
+      "title": "Why digital credibility matters before you ask people to trust your business",
+      "slug": "why-digital-credibility-matters-before-you-ask-people-to-trust-your-business",
+      "summary": "A polished digital presence shapes whether people take your business seriously from the first visit.",
+      "imageUrl": "",
+      "imageAlt": "",
+      "body": [
+        {
+          "style": "normal",
+          "children": [
+            {
+              "text": "People often decide whether a business feels trustworthy within seconds. A polished digital presence helps make that first impression stronger."
+            }
+          ]
+        }
+      ],
+      "url": "#"
+    }
+  ]
+}

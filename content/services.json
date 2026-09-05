@@ -1,0 +1,112 @@
+{
+  "highlights": [
+    {
+      "title": "Company Websites",
+      "summary": "Built for businesses that need a professional digital presence."
+    },
+    {
+      "title": "Website Redesign",
+      "summary": "For brands that need a stronger, cleaner, more modern presentation."
+    },
+    {
+      "title": "Landing Pages",
+      "summary": "Focused pages built to support campaigns, offers, and lead generation."
+    }
+  ],
+  "services": [
+    {
+      "index": "01",
+      "title": "Premium Web Design",
+      "slug": "premium-web-design",
+      "description": "We design websites that look modern, feel intentional, and present your business with more confidence. This includes new company websites, website redesigns, and landing pages built to make stronger first impressions and guide visitors more clearly.",
+      "items": [
+        "Company website design",
+        "Website redesign and visual refresh",
+        "Landing page design for focused campaigns",
+        "Custom homepage and inner page design",
+        "Responsive layout for mobile and desktop",
+        "Visual hierarchy and strong call-to-action flow",
+        "Brand-aligned typography and interface styling"
+      ],
+      "body": [
+        {
+          "style": "normal",
+          "children": [
+            {
+              "text": "Premium web design is about more than appearance. It gives your business a sharper first impression, clearer messaging, and a more confident digital presence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": "02",
+      "title": "Website Development",
+      "slug": "website-development",
+      "description": "We turn approved design direction into clean, responsive frontend code that is structured for performance, usability, and future growth. This covers company websites, redesign implementations, and landing page builds that need to work smoothly across devices.",
+      "items": [
+        "Company website development",
+        "Website redesign implementation",
+        "Landing page development",
+        "Static business websites",
+        "Multi-page company websites",
+        "Landing pages for campaigns and services",
+        "Clean code structure ready for expansion"
+      ],
+      "body": [
+        {
+          "style": "normal",
+          "children": [
+            {
+              "text": "Website development turns approved design direction into a fast, responsive, and dependable build that is ready for growth."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": "03",
+      "title": "Web App Development",
+      "slug": "web-app-development",
+      "description": "For businesses that need more than pages, we create web-based tools and digital workflows that help users interact, manage information, or complete tasks more efficiently.",
+      "items": [
+        "Dashboards and internal tools",
+        "Client-facing product interfaces",
+        "Interactive forms and digital workflows",
+        "Scalable frontend foundations"
+      ],
+      "body": [
+        {
+          "style": "normal",
+          "children": [
+            {
+              "text": "Web app development helps businesses move beyond brochure websites into tools and platforms that support real workflows and ongoing use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": "04",
+      "title": "SEO Writing and Content Structuring",
+      "slug": "seo-writing-and-content-structuring",
+      "description": "We help shape the words behind the website so the message is clear, strategic, and easier to discover through search.",
+      "items": [
+        "Service page writing",
+        "Homepage and landing page messaging",
+        "SEO-friendly headings and structure",
+        "Blog and content planning support"
+      ],
+      "body": [
+        {
+          "style": "normal",
+          "children": [
+            {
+              "text": "SEO writing and content structuring help your website become easier to understand, easier to discover, and more persuasive once visitors arrive."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

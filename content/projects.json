@@ -1,0 +1,59 @@
+[
+  {
+    "tag": "Corporate Website Concept",
+    "title": "Professional digital presence for a service-driven company",
+    "slug": "professional-digital-presence-for-a-service-driven-company",
+    "summary": "This project direction is focused on helping a company look more established online through a cleaner homepage flow, more confident service presentation, and a premium visual system.",
+    "industry": "Professional Services",
+    "focus": "Branding, Clarity, Conversion",
+    "body": [
+      {
+        "style": "normal",
+        "children": [
+          {
+            "text": "This project shows how a service-driven company can build a cleaner homepage flow, sharper positioning, and a more premium visual system."
+          }
+        ]
+      }
+    ],
+    "visualClass": "case-study-visual-one"
+  },
+  {
+    "tag": "Client Workflow Dashboard",
+    "title": "App-style interface for organizing tasks and communication",
+    "slug": "app-style-interface-for-organizing-tasks-and-communication",
+    "summary": "This concept explores how a clean digital workspace can make a process feel easier, more credible, and more efficient for both business teams and their clients.",
+    "industry": "Operations / Internal Tools",
+    "focus": "Usability, Structure, Scalability",
+    "body": [
+      {
+        "style": "normal",
+        "children": [
+          {
+            "text": "This project explores how a modern dashboard can organize tasks, improve communication, and make workflows feel easier for both teams and clients."
+          }
+        ]
+      }
+    ],
+    "visualClass": "case-study-visual-two"
+  },
+  {
+    "tag": "Campaign Landing Experience",
+    "title": "High-focus landing page for a targeted service offer",
+    "slug": "high-focus-landing-page-for-a-targeted-service-offer",
+    "summary": "This project direction is designed to move visitors quickly from first impression to action with a stronger call-to-action path, more deliberate content flow, and fewer distractions.",
+    "industry": "Marketing / Sales",
+    "focus": "Messaging, Lead Capture, Performance",
+    "body": [
+      {
+        "style": "normal",
+        "children": [
+          {
+            "text": "This landing page concept focuses on stronger calls to action, cleaner messaging, and a more deliberate conversion path."
+          }
+        ]
+      }
+    ],
+    "visualClass": "case-study-visual-three"
+  }
+]

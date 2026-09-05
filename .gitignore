@@ -1,0 +1,7 @@
+deploy/
+node_modules/
+*.log
+.env
+.env.*
+!.env.example
+cms/sanity-studio/

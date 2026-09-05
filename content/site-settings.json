@@ -1,0 +1,48 @@
+{
+  "companyName": "Lito Tech Limited",
+  "tagline": "Modern websites, web apps, and digital experiences built for business growth.",
+  "socialLinks": [
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/litotech1"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/litotech_/"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lito-tech-limited-4965383b1"
+    },
+    {
+      "label": "WhatsApp",
+      "url": "https://wa.me/2347061275374"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Home",
+      "url": "index.html"
+    },
+    {
+      "label": "About",
+      "url": "about.html"
+    },
+    {
+      "label": "Services",
+      "url": "services.html"
+    },
+    {
+      "label": "Projects",
+      "url": "projects.html"
+    },
+    {
+      "label": "Insights",
+      "url": "insights.html"
+    },
+    {
+      "label": "Start a Project",
+      "url": "start-project.html"
+    }
+  ]
+}
