@@ -252,7 +252,7 @@ textarea {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.9fr);
+  grid-template-columns: minmax(0, 1.35fr) minmax(320px, 0.65fr);
   gap: 2rem;
   align-items: center;
 }
@@ -265,7 +265,7 @@ textarea {
 }
 
 .page-hero-grid {
-  grid-template-columns: minmax(0, 1.1fr) minmax(300px, 0.75fr);
+  grid-template-columns: minmax(0, 1.25fr) minmax(300px, 0.75fr);
   align-items: center;
 }
 
@@ -292,13 +292,13 @@ textarea {
 
 .hero h1 {
   font-size: clamp(2.7rem, 5.3vw, 4.7rem);
-  max-width: 11ch;
+  max-width: 15ch;
 }
 
 .page-hero h1 {
   margin: 0;
-  font-size: clamp(2.6rem, 5vw, 4.5rem);
-  max-width: 11ch;
+  font-size: clamp(2.45rem, 4.3vw, 4rem);
+  max-width: 15ch;
 }
 
 .hero-text {
