@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dynamic-meringue-d9ad95.netlify.app/sitemap.xml
+Sitemap: https://litotechng.com/sitemap.xml
