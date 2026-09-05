@@ -1649,9 +1649,10 @@ textarea {
 .inbox-layout { display:grid; grid-template-columns: minmax(240px,.75fr) minmax(0,1.7fr); gap: 1rem; min-height: 540px; }
 .inbox-list, .inbox-thread { padding: 1rem; border: 1px solid var(--line); border-radius: 16px; }
 .inbox-list, .inbox-messages { display:grid; gap:.65rem; overflow:auto; }
+.inbox-messages { align-content:start; }
 .inbox-conversation { padding: .8rem; text-align:left; border: 1px solid var(--line); border-radius: 10px; background: transparent; color: var(--text); cursor:pointer; }
 .inbox-thread { display:grid; grid-template-rows:auto 1fr auto; gap:1rem; }
-.inbox-message { max-width: 80%; padding: .75rem; border-radius: 12px; background: rgba(255,255,255,.07); }
+.inbox-message { align-self:start; height:fit-content; max-width: 80%; padding: .75rem; border-radius: 12px; background: rgba(255,255,255,.07); }
 .inbox-message.agent { justify-self:end; background: rgba(61,214,198,.18); }
 @media (max-width:760px) { .inbox-layout { grid-template-columns:1fr; } .inbox-card { padding:1rem; } }
 
