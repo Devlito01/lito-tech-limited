@@ -649,7 +649,7 @@ async function bootCmsContent() {
     ) {
       let siteSettings;
       try {
-        const sanitySettings = await fetchSanity(`*[_type == "siteSettings"][0]{
+        const sanitySettings = await fetchSanity(`*[_type == "siteSettings" && _id == "site-settings-main"][0]{
           tagline,
           socialLinks[]{
             label,
